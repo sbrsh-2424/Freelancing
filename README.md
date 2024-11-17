@@ -1,2 +1,2 @@
-# Freelancing
+# Freelancing Platform
 Naan Mudhalvan Project
