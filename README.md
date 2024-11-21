@@ -2,9 +2,9 @@
 Naan Mudhalvan Project
 
 # Team
-Sabarish T K - TL
-Sabith Ahamed S - TM
-Sursh L - TM
-Santhosh S - TM
+1. Sabarish T K - TL
+2. Sabith Ahamed S - TM
+3. Sursh L - TM
+4. Santhosh S - TM
 
 [Demo Link](https://drive.google.com/drive/folders/15mheAY6xXQdP_YoCaVY_5Qrr0tL-IBbh?usp=sharing)
